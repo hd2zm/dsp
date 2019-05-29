@@ -13,7 +13,9 @@ It was formerly known as "IPython Notebook."
 Review the [installation instructions](jupyter_notebook_1_install.md) and install the notebook.
 
 >### Part 2:  Using the Notebook 
-Review the [notes on using Jupyter Notebook](jupyter_notebook_2_use.md) and create a test notebook.  Do some practice and get accustomed to navigating around the notebook.  
+Review the [notes on using Jupyter Notebook](jupyter_notebook_2_use.md) and create a test notebook.  Do some practice and get accustomed to navigating around the notebook.
+
+Test notebook found [here](https://github.com/hd2zm/Data-Science-Projects/blob/master/Data-Made-Me-Donate/PIT/Showing%20MK's%20Impact%20using%20PIT.ipynb) 
 
  
  
