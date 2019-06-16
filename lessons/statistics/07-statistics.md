@@ -120,9 +120,17 @@ P(identical twin | twin brother) = 1/300 * 1/2 / ( 1/125 * 1/4 + 1/300 * 1/2 ) =
 How do frequentist and Bayesian statistics compare?
 
 ```
-Frequentists measures the ratio of outcomes for a given experiment. They're into counting and considering the empirical probability of an event. So a fair coin always has a 0.50 probability of landing heads.
+Frequentists measures the ratio of outcomes for a given experiment. 
+They're into counting and considering the empirical probability of an event. 
+So a fair coin always has a 0.50 probability of landing heads.
 
-Bayesian statistics look at probability as a degree of belief. So based on the observations, the probability could change. If a fair coin flipped 100 times landed 80 heads, a Bayesian interpretation would be inclined to say that the coin is actually unfair and 80% heads.
+
+Bayesian statistics look at probability as a degree of belief.
+So based on the observations, the probability could change. 
+
+If a fair coin flipped 100 times landed 80 heads, a Bayesian 
+interpretation would be inclined to say that the coin is actually 
+unfair and 80% heads.
 ```
 
 ---
