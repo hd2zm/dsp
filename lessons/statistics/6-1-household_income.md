@@ -62,6 +62,7 @@ Median Income: 51226.9330656
 Standard Deviation: 93946.9299635
 Skeness: 4.94992024443
 Pearson's skewness: 0.736110519243
+Percent of respondants below mean income: 66.000587956687198
 ```
 
 Upper bound set at $10,000,000:
@@ -71,6 +72,7 @@ Median Income: 51226.9330656
 Standard Deviation: 559608.501374
 Skeness: 11.6036902675
 Pearson's skewness: 0.391561943627
+Percent of respondants below mean income: 85.656306652076637
 ```
 
 As upper bound increases
