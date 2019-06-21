@@ -1,7 +1,5 @@
 [Think Stats Chapter 6 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2007.html#toc60) (household income)
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
 ```python
 import thinkstats2
 import thinkplot
@@ -76,8 +74,8 @@ Pearson's skewness: 0.391561943627
 ```
 
 As upper bound increases
--mean income increases
--median income increases
--standard deviation increases
--skewness increases
--pearson's skewness decreases
+>> mean income increases
+>> median income increases
+>> standard deviation increases
+>> skewness increases
+>> pearson's skewness decreases
