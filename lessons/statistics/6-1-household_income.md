@@ -74,8 +74,8 @@ Pearson's skewness: 0.391561943627
 ```
 
 As upper bound increases
->> mean income increases
->> median income increases
->> standard deviation increases
->> skewness increases
->> pearson's skewness decreases
+* mean income increases
+* median income increases
+* standard deviation increases
+* skewness increases
+* pearson's skewness decreases
